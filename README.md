@@ -1,4 +1,4 @@
-# Spotify-Clone
+# MusicKeeda
 Overview: Built a music streaming website inspired by Spotify using HTML, CSS, and JavaScript.
 
 Features: Designed a responsive interface with a music library, playback controls, and navigation bar to replicate Spotify’s core functionality.
